@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
-$username = "root";
-$password = "root";
+$username = "";
+$password = "";
 $port = 3350;
 
 try {
